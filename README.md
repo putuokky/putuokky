@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 👋 I'm Okky Maheswara
+- 🌱 I'm Okky Maheswara
 - 💬 I’m interested in learning and gaming
+- 🔭 I’m currently working on framework language programming
 - 👯 How to reach me? [t.me/putuokky](https://t.me/putuokky)
 
 <!--
