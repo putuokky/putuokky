@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 👋 I'm Okky Maheswara
+- 💬 I’m interested in learning and gaming
+- 👯 How to reach me? [t.me/putuokky](https://t.me/putuokky)
+
 <!--
 **putuokky/putuokky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
