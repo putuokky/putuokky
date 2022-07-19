@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I'm Okky Maheswara
+- 🌱 My Name Okky Maheswara
 - 💬 I’m interested in learning and gaming
 - 🔭 I’m currently working on framework language programming
-- 👯 How to reach me? [t.me/putuokky](https://t.me/putuokky)
+- 👯 How to reach me? [http://s.id/mahesora](http://s.id/mahesora)
 
 <!--
 **putuokky/putuokky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
