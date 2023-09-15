@@ -3,6 +3,7 @@
 - 🌱 My Name Okky Maheswara
 - 💬 I’m interested in learning and gaming
 - 🔭 I’m currently working on framework language programming
+- 😄 Show My Repo this link at [github.com/putuokky](https://github.com/putuokky)
 - 👯 How to reach me? [http://s.id/mahesora](http://s.id/mahesora)
 
 <!--
